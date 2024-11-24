@@ -1,0 +1,17 @@
+
+flutter_native_splash:
+  color: "#002D6E"
+  image: assets/images/logoTrans.png
+#  branding: assets/branding-development.png
+#  color_dark: "#121212"
+#  image_dark: assets/images/logoTrans.png
+#  branding_dark: assets/branding-development.png
+  android_12:
+    image: assets/images/splash.png
+    icon_background_color: "#002D6E"
+#    image_dark: assets/images/splash.png
+#    icon_background_color_dark: "#121212"
+  # Platform
+  android: true
+  ios: true
+  web: true
